@@ -1,0 +1,612 @@
+{
+    "hero": {
+        "available": { "tr": "Yeni fırsatlara açık", "en": "Open to new opportunities" },
+        "hi": { "tr": "Merhaba, ben", "en": "Hi, I'm" },
+        "iam": { "tr": "Ben bir", "en": "I'm a" },
+        "summary": {
+            "tr": "Çok kiracılı SaaS mimarileri, RBAC sistemleri ve ölçeklenebilir RESTful API geliştirme konularında deneyimli, backend odaklı bir yazılım geliştiriciyim.",
+            "en": "Backend-focused software developer with hands-on experience in multi-tenant SaaS architectures, RBAC systems, and scalable RESTful API development."
+        },
+        "ctaWork": { "tr": "Projelerime Bak", "en": "View My Work" },
+        "ctaContact": { "tr": "İletişime Geç", "en": "Get in Touch" },
+        "scroll": { "tr": "Kaydır", "en": "Scroll" },
+        "roles": {
+            "tr": ["Backend Geliştirici", "SaaS Mimar Adayı", "Flutter Geliştirici", "API Tasarımcısı"],
+            "en": ["Backend Developer", "SaaS Architect", "Flutter Developer", "API Designer"]
+        }
+    },
+    "about": {
+        "photo": "assets/facee.png",
+        "title": { "tr": "Hakkımda", "en": "About Me" },
+        "lead": {
+            "tr": "Üretim ortamına yönelik backend servis tasarımı, veritabanı şeması modelleme ve güvenli veri erişim mekanizmaları üzerinde çalışan, backend odaklı bir yazılım geliştiriciyim.",
+            "en": "A backend-focused software developer with hands-on experience in backend service design, database schema modeling, and secure data access mechanisms in production-oriented environments."
+        },
+        "body": {
+            "tr": "Sürdürülebilirlik ve sistem ölçeklenebilirliğini önceliklendiren modüler, katmanlı mimariler geliştirme deneyimine sahibim. Veri hassasiyeti gerektiren uygulamalarda deterministik skor motorları ve yetkilendirme akışları geliştirdim. Mobil tarafta ise servis odaklı yapılar ve state management yaklaşımlarıyla Flutter uygulamaları geliştirdim.",
+            "en": "I have experience building modular, layered architectures with a focus on maintainability and system scalability. I developed deterministic scoring engines and authorization workflows in data-sensitive applications. On the mobile side, I built Flutter applications using service-oriented structures and state management patterns."
+        }
+    },
+    "headings": {
+        "experience": { "tr": "Profesyonel Deneyim", "en": "Professional Experience" },
+        "projects": { "tr": "Öne Çıkan Projeler", "en": "Featured Projects" },
+        "skills": { "tr": "Teknik Yetkinlikler", "en": "Technical Skills" },
+        "programs": { "tr": "Liderlik & Programlar", "en": "Leadership & Programs" },
+        "credentials": { "tr": "Sertifikalar & Eğitim", "en": "Certifications & Education" },
+        "certs": { "tr": "Sertifikalar", "en": "Certifications" },
+        "education": { "tr": "Eğitim", "en": "Education" },
+        "languages": { "tr": "Diller", "en": "Languages" }
+    },
+    "contactText": {
+        "title": { "tr": "İletişime Geç", "en": "Get in Touch" },
+        "heading": { "tr": "Birlikte çalışalım", "en": "Let's work together" },
+        "text": {
+            "tr": "Yeni projeler, iş birlikleri veya bir merhaba için her zaman açığım. En hızlı şekilde aşağıdaki kanallardan ulaşabilirsin.",
+            "en": "I'm always open to new projects, collaborations, or just a friendly hello. Reach me fastest through the channels below."
+        }
+    },
+    "footer": {
+        "role": { "tr": "Software Developer", "en": "Software Developer" },
+        "rights": { "tr": "Tüm hakları saklıdır.", "en": "All rights reserved." }
+    },
+    "seo": {
+        "title": { "tr": "Ferat Taş — Yazılım Geliştirici", "en": "Ferat Taş — Software Developer" },
+        "description": {
+            "tr": "Çok kiracılı SaaS mimarileri, RBAC sistemleri ve ölçeklenebilir RESTful API geliştirme konularında uzman, backend odaklı yazılım geliştirici. Flutter mobil geliştirme.",
+            "en": "Backend-focused software developer specializing in multi-tenant SaaS architectures, RBAC systems, and scalable RESTful APIs. Flutter mobile development."
+        },
+        "googleVerify": ""
+    },
+    "stats": [
+        {
+            "num": "5+",
+            "tr": "Üretim Odaklı Proje",
+            "en": "Production-Oriented Projects"
+        },
+        {
+            "num": "6+",
+            "tr": "Programlama Dili & Framework",
+            "en": "Languages & Frameworks"
+        },
+        {
+            "num": "5",
+            "tr": "Profesyonel Sertifika",
+            "en": "Professional Certifications"
+        },
+        {
+            "num": "B1",
+            "tr": "İngilizce Seviyesi",
+            "en": "English Level"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Keşfed Bilişim",
+            "role": {
+                "tr": "Yazılım Geliştirici Stajyeri",
+                "en": "Software Developer Intern"
+            },
+            "date": {
+                "tr": "Freelancer",
+                "en": "Freelancer"
+            },
+            "bullets": {
+                "tr": [
+                    "Organizasyon bazlı veri izolasyonu sağlayan çok kiracılı bir yönetim sisteminin geliştirilmesine katkı sağladım.",
+                    "Rol Tabanlı Erişim Kontrolü (RBAC) yetkilendirme yapısının uygulanmasında görev aldım.",
+                    "RESTful API tasarımı ve backend servis geliştirme süreçlerine katıldım.",
+                    "İlişkisel veritabanı şeması tasarımı ve veri modelleme çalışmalarında yer aldım.",
+                    "Audit log ve güvenli veri erişim mekanizmalarının uygulanmasına destek verdim."
+                ],
+                "en": [
+                    "Contributed to a multi-tenant management system with organization-based data isolation.",
+                    "Supported the implementation of a Role-Based Access Control (RBAC) authorization structure.",
+                    "Participated in RESTful API design and backend service development.",
+                    "Contributed to relational database schema design and data modeling.",
+                    "Implemented basic audit logging and secure data access mechanisms."
+                ]
+            }
+        },
+        {
+            "company": {
+                "tr": "Oyun ve Uygulama Akademisi",
+                "en": "Game and Application Academy"
+            },
+            "role": {
+                "tr": "Flutter Geliştirici (Bootcamp)",
+                "en": "Flutter Developer (Bootcamp)"
+            },
+            "date": {
+                "tr": "Ara 2023 – Ağu 2024",
+                "en": "Dec 2023 – Aug 2024"
+            },
+            "bullets": {
+                "tr": [
+                    "Kimlik doğrulama, kullanıcı yönlendirme ve rezervasyon akışlarını içeren çok ekranlı Flutter uygulaması geliştirdim.",
+                    "UI – Service – Data Layer ayrımı ile katmanlı mimari tasarladım.",
+                    "Provider tabanlı state management uyguladım ve Firebase entegrasyonu gerçekleştirdim.",
+                    "Modüler skor ve ilerleme sistemi geliştirdim.",
+                    "AllGötür uygulaması ile yüzlerce proje arasından finalist seçildim."
+                ],
+                "en": [
+                    "Developed a multi-screen Flutter application with authentication, user routing, and reservation flows.",
+                    "Designed layered architecture (UI – Service – Data Layer).",
+                    "Implemented Provider-based state management and Firebase integration.",
+                    "Built modular scoring and progression logic.",
+                    "Selected as a finalist among hundreds of projects with the AllGötür application."
+                ]
+            }
+        }
+    ],
+    "projects": [
+        {
+            "icon": "🏥",
+            "name": "Nodus",
+            "badge": {
+                "tr": "Platform",
+                "en": "Platform"
+            },
+            "sub": {
+                "tr": "Çok Kiracılı Klinik Yönetim Platformu",
+                "en": "Multi-Tenant Clinical Management Platform"
+            },
+            "bullets": {
+                "tr": [
+                    "organization_id tabanlı veri izolasyonu ile multi-tenant mimari tasarladım.",
+                    "Rol Tabanlı Erişim Kontrolü (RBAC) sistemi geliştirdim.",
+                    "Seans planlama, takvim ve uzman atama için REST tabanlı servisler geliştirdim.",
+                    "Veri koruma prensiplerine uygun audit log ve güvenli erişim mekanizmaları tasarladım."
+                ],
+                "en": [
+                    "Designed a multi-tenant architecture using organization_id-based data isolation.",
+                    "Implemented a Role-Based Access Control (RBAC) authorization system.",
+                    "Built REST-based services for session scheduling, calendar, and expert assignment.",
+                    "Designed audit logging and secure data access aligned with data protection principles."
+                ]
+            },
+            "tags": [
+                "Multi-Tenant",
+                "RBAC",
+                "REST API",
+                "Spring Boot"
+            ]
+        },
+        {
+            "icon": "🧠",
+            "name": {
+                "tr": "AI Psikometrik Platform",
+                "en": "AI Psychometric Platform"
+            },
+            "badge": {
+                "tr": "AI",
+                "en": "AI"
+            },
+            "sub": {
+                "tr": "Yapay Zekâ Destekli Değerlendirme",
+                "en": "AI-Supported Assessment"
+            },
+            "bullets": {
+                "tr": [
+                    "Şeffaf ve tekrar üretilebilir değerlendirme için deterministik skor motoru geliştirdim.",
+                    "3 katmanlı mimari tasarladım: Skor Motoru, Bağlam Katmanı, AI Yorum Katmanı.",
+                    "Uzman kullanıcılar için risk analizi ve karar destek modülü geliştirdim.",
+                    "Psikolojik değerlendirmeler için ölçeklenebilir değerlendirme altyapısı kurdum."
+                ],
+                "en": [
+                    "Developed a deterministic scoring engine for transparent, repeatable evaluations.",
+                    "Designed a 3-layer architecture: Scoring Core, Context Layer, AI Interpretation Layer.",
+                    "Implemented a risk analysis and decision-support module for expert users.",
+                    "Built a scalable evaluation pipeline for psychological assessments."
+                ]
+            },
+            "tags": [
+                "Scoring Engine",
+                "AI",
+                "Risk Analysis",
+                "Python"
+            ]
+        },
+        {
+            "icon": "❤️",
+            "name": "Health SDK",
+            "badge": {
+                "tr": "SDK",
+                "en": "SDK"
+            },
+            "sub": {
+                "tr": "Platformlar Arası Sağlık Verisi Entegrasyonu",
+                "en": "Cross-Platform Health Data Integration"
+            },
+            "bullets": {
+                "tr": [
+                    "Flutter SDK ile Google Health Connect, Huawei Health Kit ve Apple HealthKit entegrasyonu yaptım.",
+                    "12+ sağlık metriği için normalizasyon ve delta senkronizasyon geliştirdim.",
+                    "Yinelenen veri önleme ve otomatik sağlayıcı tespit mekanizmaları tasarladım.",
+                    "Go, Kotlin, Swift ve Dart ile platformlar arası veri eşleme yapıları oluşturdum."
+                ],
+                "en": [
+                    "Integrated Google Health Connect, Huawei Health Kit, and Apple HealthKit via Flutter SDK.",
+                    "Implemented normalization and delta synchronization for 12+ health metrics.",
+                    "Designed duplicate prevention and automatic provider detection mechanisms.",
+                    "Built cross-platform data mapping using Go, Kotlin, Swift, and Dart."
+                ]
+            },
+            "tags": [
+                "Flutter",
+                "Go",
+                "Kotlin",
+                "Swift",
+                "HealthKit"
+            ]
+        },
+        {
+            "icon": "📣",
+            "name": "AdBridger",
+            "badge": {
+                "tr": "MVP",
+                "en": "MVP"
+            },
+            "live": true,
+            "sub": {
+                "tr": "Yapay Zekâ Tabanlı Reklam Platformu",
+                "en": "AI-Based Advertising Platform"
+            },
+            "bullets": {
+                "tr": [
+                    "Influencer–marka eşleştirme mantığı için ilişkisel veritabanı şeması tasarladım.",
+                    "Kampanya, teklif ve kullanıcı yaşam döngüsü için backend akışlarını planladım.",
+                    "Platform güven modellemesi için çift yönlü puanlama algoritması tasarladım.",
+                    "MVP için REST tabanlı backend mimarisi kurguladım."
+                ],
+                "en": [
+                    "Designed a relational database schema for influencer–brand matching logic.",
+                    "Planned backend flows for campaign, offer, and user lifecycle management.",
+                    "Designed a bidirectional rating algorithm for platform trust modeling.",
+                    "Architected a REST-based backend structure for MVP implementation."
+                ]
+            },
+            "tags": [
+                "Database Design",
+                "REST API",
+                "Matching Algorithm"
+            ]
+        },
+        {
+            "icon": "🍽️",
+            "name": "AllGötür",
+            "badge": {
+                "tr": "Finalist",
+                "en": "Finalist"
+            },
+            "sub": {
+                "tr": "Mobil Gıda Bağış Platformu",
+                "en": "Mobile Food Donation Platform"
+            },
+            "bullets": {
+                "tr": [
+                    "Restoranlardaki fazla gıdaları ihtiyaç sahipleriyle eşleştiren mobil uygulama geliştirdim.",
+                    "Kullanıcı doğrulama, bağış oluşturma, rezervasyon ve teslim akışlarını tasarladım.",
+                    "SDG odaklı veri işleme için Gemini API entegrasyonu yaptım.",
+                    "Bootcamp sürecinde finalist proje olarak seçildim."
+                ],
+                "en": [
+                    "Developed a mobile app that matches surplus restaurant food with people in need.",
+                    "Designed user verification, donation, reservation, and pickup flows.",
+                    "Integrated the Gemini API for SDG-related data processing.",
+                    "Selected as a bootcamp finalist project."
+                ]
+            },
+            "tags": [
+                "Flutter",
+                "Firebase",
+                "Gemini API"
+            ]
+        },
+        {
+            "icon": "🛒",
+            "name": {
+                "tr": "Özyılmaz B2B E-Ticaret",
+                "en": "Özyılmaz B2B E-Commerce"
+            },
+            "badge": {
+                "tr": "Canlı",
+                "en": "Live"
+            },
+            "live": true,
+            "sub": {
+                "tr": "Bayi & Toptan Satış Platformu",
+                "en": "Dealer & Wholesale Sales Platform"
+            },
+            "link": "https://ozyilmazb2b.com/",
+            "bullets": {
+                "tr": [
+                    "Next.js ve TypeScript ile uçtan uca full-stack B2B satış platformu geliştirdim.",
+                    "Prisma + PostgreSQL ile ürün, sipariş ve bayi yönetimi veri modeli kurdum.",
+                    "Iyzico ödeme entegrasyonu, JWT/bcrypt kimlik doğrulama ve rol bazlı yetkilendirme uyguladım.",
+                    "Upstash Redis ile hız sınırlama (rate limiting) ve görsel yönetimi mekanizmaları ekledim."
+                ],
+                "en": [
+                    "Built an end-to-end full-stack B2B sales platform with Next.js and TypeScript.",
+                    "Modeled products, orders, and dealer management with Prisma + PostgreSQL.",
+                    "Implemented Iyzico payment integration, JWT/bcrypt auth, and role-based authorization.",
+                    "Added rate limiting with Upstash Redis and asset management mechanisms."
+                ]
+            },
+            "tags": [
+                "Next.js",
+                "TypeScript",
+                "Prisma",
+                "PostgreSQL",
+                "Iyzico"
+            ]
+        },
+        {
+            "icon": "🍫",
+            "name": {
+                "tr": "Hemel's Chocolate",
+                "en": "Hemel's Chocolate"
+            },
+            "badge": {
+                "tr": "Canlı",
+                "en": "Live"
+            },
+            "live": true,
+            "sub": {
+                "tr": "Lüks Çikolata Atölyesi & Kafe",
+                "en": "Luxury Chocolate Atelier & Café"
+            },
+            "link": "https://hemelschocolate.com.tr/",
+            "bullets": {
+                "tr": [
+                    "Premium çikolata markası için kurumsal web deneyimi geliştirdim.",
+                    "Ürün vitrini, atölye/etkinlik rezervasyon ve üyelik (The Club) bölümlerini kurguladım.",
+                    "Marka kimliğine uygun, mobil uyumlu ve SEO odaklı bir tasarım uyguladım."
+                ],
+                "en": [
+                    "Developed the corporate web experience for a premium chocolate brand.",
+                    "Built product showcase, workshop/event reservation, and membership (The Club) sections.",
+                    "Implemented a brand-aligned, mobile-friendly, SEO-focused design."
+                ]
+            },
+            "tags": [
+                "Web",
+                "Responsive",
+                "SEO",
+                "UI/UX"
+            ]
+        },
+        {
+            "icon": "💄",
+            "name": {
+                "tr": "Aris Güzellik Merkezi",
+                "en": "Aris Beauty Center"
+            },
+            "badge": {
+                "tr": "Canlı",
+                "en": "Live"
+            },
+            "live": true,
+            "sub": {
+                "tr": "Güzellik & Estetik Merkezi Web Sitesi",
+                "en": "Beauty & Aesthetics Center Website"
+            },
+            "link": "https://arisezgidogankayseri.com/",
+            "bullets": {
+                "tr": [
+                    "Güzellik & estetik merkezi için kurumsal tanıtım web sitesi geliştirdim.",
+                    "Hizmet tanıtımı, galeri, müşteri yorumları ve S.S.S. bölümlerini kurguladım.",
+                    "Online randevu/iletişim formu ve WhatsApp entegrasyonu ile mobil uyumlu bir deneyim sundum."
+                ],
+                "en": [
+                    "Developed a corporate website for a beauty & aesthetics center.",
+                    "Built service showcase, gallery, customer reviews, and FAQ sections.",
+                    "Delivered a mobile-friendly experience with online appointment/contact form and WhatsApp integration."
+                ]
+            },
+            "tags": [
+                "Web",
+                "Responsive",
+                "SEO",
+                "UI/UX"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "icon": "⌨️",
+            "title": {
+                "tr": "Programlama",
+                "en": "Programming"
+            },
+            "items": [
+                "Python",
+                "Java",
+                "Go",
+                "Dart",
+                "TypeScript",
+                "JavaScript"
+            ]
+        },
+        {
+            "icon": "🧩",
+            "title": {
+                "tr": "Frameworkler",
+                "en": "Frameworks"
+            },
+            "items": [
+                "Spring Boot",
+                "Flutter",
+                "React",
+                "Next.js",
+                "Node.js",
+                "Electron"
+            ]
+        },
+        {
+            "icon": "🗄️",
+            "title": {
+                "tr": "Veritabanları",
+                "en": "Databases"
+            },
+            "items": [
+                "PostgreSQL",
+                "MySQL",
+                "MSSQL",
+                "Supabase",
+                "Firestore",
+                "SQLite"
+            ]
+        },
+        {
+            "icon": "🏗️",
+            "title": {
+                "tr": "Mimari",
+                "en": "Architecture"
+            },
+            "items": [
+                "REST API",
+                "RBAC",
+                "Multi-Tenant",
+                "Layered Architecture"
+            ]
+        },
+        {
+            "icon": "🛠️",
+            "title": {
+                "tr": "Araçlar",
+                "en": "Tools"
+            },
+            "items": [
+                "Git",
+                "GitHub",
+                "Prisma",
+                "Firebase",
+                "Playwright",
+                "Cloudflare Workers",
+                "Postman",
+                "Vite"
+            ]
+        }
+    ],
+    "programs": [
+        {
+            "icon": "🌍",
+            "title": {
+                "tr": "Aspire Liderlik Programı",
+                "en": "Aspire Leadership Program"
+            },
+            "date": {
+                "tr": "Mart 2025",
+                "en": "Mar 2025"
+            },
+            "desc": {
+                "tr": "40 saatlik küresel liderlik gelişim programını tamamladım; liderlik, iletişim ve sosyal etki odaklı üç modülü bitirdim.",
+                "en": "Completed the 40-hour global leadership development program, finishing three modules on leadership, communication, and social impact."
+            }
+        },
+        {
+            "icon": "🚀",
+            "title": {
+                "tr": "YetGen – 21. Yüzyıl Yetkinlikleri",
+                "en": "YetGen – 21st Century Competencies"
+            },
+            "date": {
+                "tr": "Ağu 2023 – Eki 2023",
+                "en": "Aug 2023 – Oct 2023"
+            },
+            "desc": {
+                "tr": "Analitik düşünme, sunum, liderlik ve teknoloji okuryazarlığı odaklı 140 saatlik ileri seviye eğitimi tamamladım.",
+                "en": "Completed a 140-hour advanced program focused on analytical thinking, presentation, leadership, and technology literacy."
+            },
+            "verify": {
+                "tr": "https://verified.sertifier.com/tr/verify/97623904162535/",
+                "en": "https://verified.sertifier.com/tr/verify/04832158209184/"
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "tr": "Oyun ve Uygulama Akademisi – Mezun & Bootcamp Finalisti",
+            "en": "Game & Application Academy – Graduate & Bootcamp Finalist"
+        },
+        {
+            "tr": "IBM x Kodluyoruz – CyberStart Programı",
+            "en": "IBM x Kodluyoruz – CyberStart Program"
+        },
+        {
+            "tr": "Google Project Management Professional Sertifikası",
+            "en": "Google Project Management Professional Certificate"
+        },
+        {
+            "tr": "Miuul – Python ile Veri Bilimi",
+            "en": "Miuul – Python for Data Science"
+        },
+        {
+            "tr": "Cisco – Siber Güvenliğe Giriş",
+            "en": "Cisco – Introduction to Cyber Security"
+        }
+    ],
+    "education": {
+        "school": {
+            "tr": "İskenderun Teknik Üniversitesi",
+            "en": "Iskenderun Technical University"
+        },
+        "degree": {
+            "tr": "Bilgisayar Mühendisliği, Lisans (2023 – Devam ediyor)",
+            "en": "B.Sc. in Computer Engineering (2023 – Present)"
+        }
+    },
+    "languages": [
+        {
+            "name": {
+                "tr": "Türkçe",
+                "en": "Turkish"
+            },
+            "level": {
+                "tr": "Ana Dil",
+                "en": "Native"
+            },
+            "pct": 100
+        },
+        {
+            "name": {
+                "tr": "İngilizce",
+                "en": "English"
+            },
+            "level": "B1",
+            "pct": 55
+        }
+    ],
+    "contact": [
+        {
+            "icon": "mail",
+            "label": {
+                "tr": "E-posta",
+                "en": "Email"
+            },
+            "value": "ferattas2763@gmail.com",
+            "href": "mailto:ferattas2763@gmail.com"
+        },
+        {
+            "icon": "phone",
+            "label": {
+                "tr": "Telefon",
+                "en": "Phone"
+            },
+            "value": "+90 544 277 5763",
+            "href": "tel:+905442775763"
+        },
+        {
+            "icon": "linkedin",
+            "label": "LinkedIn",
+            "value": "in/ferattass",
+            "href": "https://linkedin.com/in/ferattass"
+        },
+        {
+            "icon": "github",
+            "label": "GitHub",
+            "value": "ferattass",
+            "href": "https://github.com/ferattass"
+        }
+    ]
+}

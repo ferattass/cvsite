@@ -1,0 +1,8 @@
+.claude/
+.env
+.env.*
+!.env.example
+admin/.auth.php
+data/.contact_throttle.php
+data/backups/*
+!data/backups/.htaccess
